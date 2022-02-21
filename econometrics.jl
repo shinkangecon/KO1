@@ -25,3 +25,7 @@ regtable(rr1,rr2,rr3,rr4; renderSettings = asciiOutput())
 regtable(rr1,rr2,rr3,rr4; renderSettings = latexOutput())
 
 b=(x'x)\(x'y)
+
+
+
+sdfdsfds
